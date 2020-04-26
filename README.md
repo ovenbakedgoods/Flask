@@ -1,2 +1,2 @@
 # Flask
- Learning Flask and Making Some Projects
+ Learning Flask and Making Projects
